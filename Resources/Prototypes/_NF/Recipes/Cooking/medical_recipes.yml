@@ -233,26 +233,6 @@
   hideInGuidebook: true
 
 - type: microwaveMealRecipe
-  id: NFRecipeBuildABuddyGoblin
-  name: Build-A-Buddy
-  result: NFMobGoblinBuddy
-  time: 20
-  group: Secret
-  solids:
-    HeadGoblin: 1
-    TorsoGoblin: 1
-    LeftArmGoblin: 1
-    RightArmGoblin: 1
-    LeftHandGoblin: 1
-    RightHandGoblin: 1
-    LeftLegGoblin: 1
-    RightLegGoblin: 1
-    LeftFootGoblin: 1
-    RightFootGoblin: 1
-  recipeType: MedicalAssembler
-  hideInGuidebook: true
-
-- type: microwaveMealRecipe
   id: NFRecipeBuildABuddyReptilian
   name: Build-A-Buddy
   result: NFMobReptilianBuddy
