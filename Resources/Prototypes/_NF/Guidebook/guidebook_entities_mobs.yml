@@ -33,17 +33,6 @@
     prototypes:
     - GuidebookMemeNpcUglyLoadout
 
-- type: entity
-  parent:
-  - MobGoblin
-  id: GuidebookMemeNpcThatGuy
-  name: "and that guy"
-  categories: [ HideSpawnMenu ]
-  components:
-  - type: Loadout
-    prototypes:
-    - GuidebookMemeNpcThatGuyLoadout
-
 # Mobs (original has despawn timers)
 - type: entity
   parent: BaseItem
