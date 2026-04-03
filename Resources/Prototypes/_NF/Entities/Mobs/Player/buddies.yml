@@ -24,12 +24,6 @@
   categories: [ HideSpawnMenu ]
 
 - type: entity
-  id: NFMobGoblinBuddy
-  parent: [MobGoblin, NFBuddyBase]
-  suffix: Build-A-Buddy
-  categories: [ HideSpawnMenu ]
-
-- type: entity
   id: NFMobReptilianBuddy
   parent: [MobReptilian, NFBuddyBase]
   suffix: Build-A-Buddy
